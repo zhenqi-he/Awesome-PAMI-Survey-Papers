@@ -8,3 +8,4 @@ In this repo, we aim to curate survey papers published in TPAMI. It is still und
    |Transformer-Based Visual Segmentation: A Survey                                  |`Computer Vision`,`Transformers` | [IEEE](https://ieeexplore.ieee.org/document/10613466) | [here](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer) | 2024 |
    |A Survey on Self-supervised Learning: Algorithms, Applications, and Future Trends|`Self-Supervised Learning` | [IEEE](https://ieeexplore.ieee.org/document/10559458) | [here](https://github.com/guijiejie/SSL) | 2024 |
    |Deep Learning for Visual Speech Analysis: A Survey|`Multimodal` | [IEEE](https://ieeexplore.ieee.org/document/10472054) | | 2024 |
+   |A Survey on Information Bottleneck|`Information Bottleneck` | [IEEE](https://ieeexplore.ieee.org/document/10438074) | [here](https://github.com/ShizheHu/TPAMI24_Awesome-Information-Bottleneck) | 2024 |
