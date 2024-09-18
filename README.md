@@ -1,4 +1,6 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Awesome Survey Papers 
+
 In this repo, we aim to curate survey papers published in TPAMI. It is still under construction, feel free to help yourself.
 
 # Summary
